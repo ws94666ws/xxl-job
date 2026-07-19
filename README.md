@@ -56,6 +56,11 @@ XXL-JOB 是一个开源且免费项目，其正在进行的开发完全得益于
             <span style="text-decoration:underline;color: #E6BE8A;" >阿里云 提供云上托管 XXL-JOB</span>
         </a>
     </td>
+    <td>
+        <a href="https://www.mall4j.com/cn/?statId=10" title="" target="_blank" data-peroid="20260720-20270820" >
+            <img width="150px" src="http://www.xuxueli.com/page/static/images/logo_mail4j.png" >
+        </a>
+    </td>
 </tr>
 </table>
 <!-- supporter end -->
